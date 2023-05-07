@@ -151,11 +151,14 @@
 
 
 .body__aboutus{
-    margin: 229px 346px 0 346px;
+    padding: 229px 346px 0 346px;
     font-family: "Open Sans",sans-serif;
+    background-color: #f7f7f7;
+    
 }
 .body__aboutus__1{
     display: flex;
+   
 }
 .body__aboutus__1__content{
     margin-right: 32px;
@@ -185,4 +188,40 @@
 .body__aboutus__1__image__img{
     height: 359px;
     width: 465px;
+}
+.body__aboutus__2{
+    display: flex;
+}
+.body__aboutus__2_content{
+
+}
+.body__aboutus__2_content_heading{
+
+}
+.body__aboutus__2__dsc1{
+    font-size: 14px;
+    color: #707070;
+    margin-top: 22px;
+    margin-bottom: 22px;
+    letter-spacing: 1px;
+    line-height: 20px;
+    margin-left: 29px;
+    float: right;
+}
+
+.body__aboutus__2__content__2{
+
+}
+.body__aboutus__2__content__heading__2{
+
+}
+.body__aboutus__2__dsc2{
+    font-size: 14px;
+    color: #707070;
+    margin-top: 22px;
+
+    letter-spacing: 1px;
+    line-height: 20px;
+    margin-left: 29px;
+    float: right;
 }
