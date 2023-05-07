@@ -225,3 +225,35 @@
     margin-left: 29px;
     float: right;
 }
+.body__aboutus__3{
+
+}
+.body__aboutus__3__title{
+    margin-top: 5px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.body__aboutus__3__logo__first{
+    display: flex;
+    justify-content: center;
+
+}
+.body__aboutus__3__logo__first__img{
+    
+}
+.body__aboutus__3__logo__first__img2{
+    
+}
+.body__aboutus__3__title__2{
+    margin-bottom: 20px;
+    margin-top: 20px;
+    text-align: center;
+}
+.body__aboutus__3__logo__second{
+    display: flex;
+    justify-content: center;
+}
+.body__aboutus__3__logo__second__img{
+    height: 312px;
+    width: 27%;
+}
